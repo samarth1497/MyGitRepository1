@@ -1,10 +1,5 @@
 This is my login page.. Welcome to Git..!!!
-<<<<<<< HEAD
-change1
-Change2
-Change3
-=======
 Change1 --> 1
 Change2 --> 2
-Change3 --> 3
->>>>>>> bug123
+!!! Change3 --> 3
+
